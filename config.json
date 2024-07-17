@@ -1,0 +1,15 @@
+{
+    "processes": [
+        {
+            "name": "notify-send",
+            "path": "/usr/bin/notify-send",
+            "args": [
+                "hello world"
+            ]
+        },
+        {
+            "name": "gedit",
+            "path": "/usr/bin/gedit"
+        }
+    ]
+}
